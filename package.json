@@ -1,5 +1,5 @@
 {
-  "name": "static_deploy",
+  "name": "static-deploy",
   "version": "1.0.0",
   "description": "Deploy static files to S3 with dev UX similar to surge.sh",
   "main": "index.js",
